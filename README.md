@@ -1,2 +1,2 @@
-# Shopify-Frontend-Challenge
-A repository to try out the Shopify Frontend technical challenge
+# Resume
+A repository to display my Resume showing my experiences and the projects that I have undertaken
