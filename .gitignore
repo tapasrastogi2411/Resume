@@ -5,3 +5,6 @@ resume.log
 resume.synctex.gz
 resume.out
 resume.tex
+*.synctex(busy)
+resume.cls
+res.cls
