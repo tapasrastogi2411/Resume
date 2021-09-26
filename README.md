@@ -1,7 +1,7 @@
 # Resume
 A repository to display my Resume, showcasing my experiences and the projects that I have undertaken in the last two years. I have made two versions of my resume, based on the types of position I aim to apply to.
 
-Working on making my resume through Latex in the `resume-latex` branch of this repository :)
+Working on making my resume through Latex in the `resume-latex` branch of this repository
 
 - [Software Engineering/Full-Stack Development/Mobile Development - Resume](https://drive.google.com/file/d/11yw-lBgJ9av520oXWTSlMVXoeTlP9RcC/view?usp=sharing) - Last updated: 7th July, 2021
 
